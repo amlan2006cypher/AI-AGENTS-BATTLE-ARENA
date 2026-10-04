@@ -1,0 +1,5 @@
+depth,result,nodes_evaluated,nodes_pruned,time_seconds,average_time_seconds
+1,3 wins / 3 draws / 4 losses,207,0,0.073454,0.007345
+2,2 wins / 8 draws / 0 losses,637,146,0.082797,0.00828
+3,2 wins / 5 draws / 3 losses,2174,439,0.110079,0.011008
+4,1 wins / 8 draws / 1 losses,5879,2017,0.15729,0.015729
